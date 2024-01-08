@@ -1,5 +1,7 @@
 
-![Screenshot](https://github.com/devRCR/FundBio24v/blob/main/Images/banner.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/devRCR/FundBio24v/blob/main/Images/banner.png">
+</p>
 
 
 # LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas
