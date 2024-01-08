@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/devRCR/FundBio24v/blob/main/Images/banner.png">
+  <img width="750" height="270" src="https://github.com/devRCR/FundBio24v/blob/main/Images/banner.png">
 </p>
 
 
