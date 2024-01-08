@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/devRCR/FundBio24v/blob/main/Images/IoT.png)
+![Logo](https://github.com/devRCR/FundBio24v/blob/main/Images/IoT%20logo.png)
 
 
 # LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas
