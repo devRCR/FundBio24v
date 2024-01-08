@@ -4,11 +4,10 @@
 
 # LoRa Network-Based System for Monitoring the Agricultural Sector in Andean Areas
 
-A brief description of what this project does and who it's for
+Una breve descripción de qué hace este proyecto y para quién es.
 
-
-## 🚀 Sobre nuestro proyecto
-I'm a full stack developer...
+## 🚀 Sobre mí
+Soy un desarrollador full-stack.
 
 
 ## Authors
