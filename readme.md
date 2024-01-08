@@ -17,5 +17,5 @@ Soy un desarrollador full-stack.
 
 ## Apéndice
 
-Any additional information goes here
+Cualquier información adicional va aquí.
 
